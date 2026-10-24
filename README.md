@@ -2,8 +2,8 @@
 
 Model codes and dimensions for the 37 series in the **Omni Design Collection**, the product catalog of Jiangsu Omni Industrial Co., Ltd. (Yangzhou, China, est. 2004).
 
-- Catalog: https://omnidesign.site/
-- Official website: https://www.omnidesking.com/
+- Catalog: [omnidesign.site](https://omnidesign.site/)
+- Official website: [omnidesking.com](https://www.omnidesking.com/)
 - Version: 1.0.0 (2026-10-23)
 - License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
