@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Omni office furniture specifications"
+version: 1.0.0
+date-released: 2026-10-23
+license: CC-BY-4.0
+authors:
+  - name: "Omni Design Collection (Jiangsu Omni Industrial Co., Ltd.)"
+    website: "https://omnidesign.site/"
+url: "https://omnidesign.site/data/"
+keywords: [office furniture, workstations, height-adjustable desks, specifications, dimensions, open data]
